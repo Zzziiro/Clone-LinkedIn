@@ -1,8 +1,8 @@
-import React from 'react';
+import React from "react";
 
-import Panel from '../../Panel';
+import Panel from "../../Panel";
 
-import { Container } from './styles';
+import { Container } from "./styles";
 
 const ProfilePanel: React.FC = () => {
   return (
@@ -14,8 +14,8 @@ const ProfilePanel: React.FC = () => {
           alt="Avatar"
           className="profile-picture"
         />
-        <h1>Lucas Vieira</h1>
-        <h2>Student</h2>
+        <h1>Lucas Ziro</h1>
+        <h2>Desenvolvedor</h2>
 
         <div className="separator"></div>
 
